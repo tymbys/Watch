@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=Watch v0.1.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\Watch v0.1 -TC:\CooCox\CoIDE\configuration\ProgramData\Watch v0.1/arm-gcc-link.ld -g">
+      <target file="Watch v0.1.elf" lastModified="148268996cc">
+         <source file="..\obj\stm32l1xx_gpio.o" lastModified="14826898a5e"/>
+         <source file="..\obj\oled.o" lastModified="14826898e92"/>
+         <source file="..\obj\stm32l1xx_pwr.o" lastModified="14826898ef0"/>
+         <source file="..\obj\startup_stm32l1xx_md.o" lastModified="14826898f1e"/>
+         <source file="..\obj\stm32l1xx_exti.o" lastModified="14826898f4d"/>
+         <source file="..\obj\stm32l1xx_rcc.o" lastModified="14826898f9b"/>
+         <source file="..\obj\system_stm32l1xx.o" lastModified="14826898fca"/>
+         <source file="..\obj\main.o" lastModified="1482689922a"/>
+         <source file="..\obj\stm32l1xx_syscfg.o" lastModified="14826899269"/>
+         <source file="..\obj\syscalls.o" lastModified="148268992a7"/>
+         <source file="..\obj\misc.o" lastModified="148268992d6"/>
+         <source file="..\obj\stm32l1xx_rtc.o" lastModified="14826899343"/>
+         <source file="..\obj\stm32l1xx_tim.o" lastModified="148268993c0"/>
+      </target>
+   </processor>
+</history>

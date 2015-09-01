@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="4"/>
+<part id="2"/>
+<part id="3"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" partName="Repository" title="Repository" tooltip="Repository" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">&#x0A;<subPage horizontalPosition="0" selectedItemId="0" subPageIndex="0" verticalPosition="0"/>
+</input>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_rtc.c" partName="stm32l1xx_rtc.c" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_rtc.c" title="stm32l1xx_rtc.c" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_rtc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Source/stm32l1xx_rtc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="93138" selectionTopPixel="37275"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_rcc.c" partName="stm32l1xx_rcc.c" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_rcc.c" title="stm32l1xx_rcc.c" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_rcc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Source/stm32l1xx_rcc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="111" selectionOffset="41784" selectionTopPixel="504"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="RTC.h" partName="RTC.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/RTC.h" title="RTC.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/RTC.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/RTC.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3812" selectionTopPixel="1884"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="delay.h" partName="delay.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/delay.h" title="delay.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/delay.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/Ssd1306/delay.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_pwr.c" partName="stm32l1xx_pwr.c" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_pwr.c" title="stm32l1xx_pwr.c" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_pwr.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Source/stm32l1xx_pwr.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="33548" selectionTopPixel="11820"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_pwr.h" partName="stm32l1xx_pwr.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_pwr.h" title="stm32l1xx_pwr.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_pwr.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Include/stm32l1xx_pwr.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="4820" selectionTopPixel="1950"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="oled.h" partName="oled.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/oled.h" title="oled.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/oled.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/Ssd1306/oled.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="409" selectionTopPixel="894"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx.h" partName="stm32l1xx.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_boot/stm32l1xx.h" title="stm32l1xx.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_boot/stm32l1xx.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_boot/stm32l1xx.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="38354" selectionTopPixel="10095"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_syscfg.c" partName="stm32l1xx_syscfg.c" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_syscfg.c" title="stm32l1xx_syscfg.c" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_syscfg.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Source/stm32l1xx_syscfg.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="21" selectionOffset="8147" selectionTopPixel="2820"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_syscfg.h" partName="stm32l1xx_syscfg.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_syscfg.h" title="stm32l1xx_syscfg.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_syscfg.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Include/stm32l1xx_syscfg.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="15" selectionOffset="3093" selectionTopPixel="1185"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_exti.c" partName="stm32l1xx_exti.c" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_exti.c" title="stm32l1xx_exti.c" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_exti.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Source/stm32l1xx_exti.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="16" selectionOffset="5417" selectionTopPixel="1695"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_exti.h" partName="stm32l1xx_exti.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_exti.h" title="stm32l1xx_exti.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_exti.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Include/stm32l1xx_exti.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="2012" selectionTopPixel="900"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="misc.h" partName="misc.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/misc.h" title="misc.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/misc.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Include/misc.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="1956" selectionTopPixel="615"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="WatchFont.h" partName="WatchFont.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/Font/WatchFont.h" title="WatchFont.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/Font/WatchFont.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/Ssd1306/Font/WatchFont.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12997" selectionTopPixel="8145"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="misc.c" partName="misc.c" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/misc.c" title="misc.c" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/misc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Source/misc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="24" selectionOffset="6725" selectionTopPixel="180"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/main.c" title="main.c" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="11337" selectionTopPixel="9608"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="icon.h" partName="icon.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/icon.h" title="icon.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/icon.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/Ssd1306/icon.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="32" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_gpio.h" partName="stm32l1xx_gpio.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_gpio.h" title="stm32l1xx_gpio.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_gpio.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Include/stm32l1xx_gpio.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="2243" selectionTopPixel="840"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="oled.c" partName="oled.c" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/oled.c" title="oled.c" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/oled.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/Ssd1306/oled.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="16956" selectionTopPixel="10185"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="WProgram.h" partName="WProgram.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/WProgram.h" title="WProgram.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/WProgram.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/WProgram.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="3896" selectionTopPixel="3120"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_rtc.h" partName="stm32l1xx_rtc.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_rtc.h" title="stm32l1xx_rtc.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Include/stm32l1xx_rtc.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Include/stm32l1xx_rtc.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="34486" selectionTopPixel="10170"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="timesNewRoman.h" partName="timesNewRoman.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/Font/timesNewRoman.h" title="timesNewRoman.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/SSD1306/Font/timesNewRoman.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/Ssd1306/Font/timesNewRoman.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="310192" selectionTopPixel="211509"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="TACT.h" partName="TACT.h" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/TACT.h" title="TACT.h" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/TACT.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/TACT.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="4" selectionOffset="1126" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_gpio.c" partName="stm32l1xx_gpio.c" path="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_gpio.c" title="stm32l1xx_gpio.c" tooltip="D:/progekt/STM32/Watch_SSD1306/Watch/Watch v0.1/cmsis_lib/Source/stm32l1xx_gpio.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Watch v0.1/cmsis_lib/Source/stm32l1xx_gpio.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="13377" selectionTopPixel="5475"/>
+</editor>
+</editors>
+<views>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="6">
+<expanded>
+<element path="/Watch v0.1"/>
+<element path="/Watch v0.1/cmsis"/>
+<element path="/Watch v0.1/cmsis_lib"/>
+<element path="/Watch v0.1/cmsis_lib/Include"/>
+<element path="/Watch v0.1/Ssd1306"/>
+</expanded>
+<selection>
+<element path="/Watch v0.1/WProgram.h"/>
+</selection>
+</viewState>
+</view>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
+</view>
+<view id="org.coocox.codebugger.trace.ui.traceview" partName="Semihosting">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.coocox.component.ui.ComponentView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.coocox.component.ui.Help"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@165d417">
+<folder activePageID="org.coocox.component.ui.ComponentView" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="Components"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="org.eclipse.ui.internal.ViewStack@165d417">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1b77816" ratio="0.6987768" ratioLeft="457" ratioRight="197" relationship="4" relative="org.eclipse.ui.internal.ViewStack@165d417">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1e2d318" ratio="0.22" ratioLeft="220" ratioRight="780" relationship="2" relative="org.eclipse.ui.internal.ViewStack@165d417">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.exampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@87b2c8" ratio="0.88723403" ratioLeft="834" ratioRight="106" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1e2d318">
+<folder activePageID="org.coocox.component.ui.Help" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="Help"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44954127" ratioLeft="294" ratioRight="360" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1e2d318"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@476a1d" ratio="0.3685015" ratioLeft="241" ratioRight="413" relationship="4" relative="org.eclipse.ui.internal.ViewStack@165d417">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.codebugger.configuration.ui.Perspective" id="org.coocox.codebugger.configuration.perspective" label="CoDebugger"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFolder"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openFile"/>
+<hide_menu_item_id id="org.eclipse.ui.file.save"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAs"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAll"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.projectMenu"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.flashMenu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.showHelpViewAction"/>
+<hide_menu_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.debug"/>
+<hide_menu_item_id id="org.coocox.builder.ui.build"/>
+<hide_menu_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newProject"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_toolbar_item_id id="org.eclipse.ui.file.save"/>
+<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.debug"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideFlashEraseAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.TargetManageAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.coocox.codebugger.trace.ui.traceview"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@1fdc00c">&#x0A;<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="948" ratioRight="316" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1fdc00c">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@5891c9" ratio="0.69945353" ratioLeft="640" ratioRight="275" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1fdc00c">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@16372e1" ratio="0.5" ratioLeft="632" ratioRight="632" relationship="2" relative="org.eclipse.ui.internal.ViewStack@5891c9">&#x0A;<folder activePageID="org.coocox.codebugger.trace.ui.traceview" appearance="2" expanded="2">&#x0A;<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@fc8cff" ratio="0.75" ratioLeft="948" ratioRight="316" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1fdc00c">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.29957807" ratioLeft="284" ratioRight="664" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1fdc00c"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/RTC.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/WProgram.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/cmsis_lib/Source/stm32l1xx_rtc.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/cmsis_lib/Source/stm32l1xx_pwr.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/Ssd1306/oled.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/Ssd1306/Font/timesNewRoman.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/cmsis_lib/Include/stm32l1xx_pwr.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/cmsis_lib/Include/stm32l1xx_rtc.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/cmsis_boot/Startup/startup_stm32l1xx_md.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/WProgram.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/Ssd1306/oled.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Watch v0.1/main.c"/>
+</editors>
+<item historyLabel="oled.c" index="5">
+<position info="not_deleted" x="23537" y="0"/>
+</item>
+<item historyLabel="oled.c" index="5">
+<position info="not_deleted" x="16956" y="19"/>
+</item>
+<item historyLabel="WProgram.h" index="2">
+<position info="not_deleted" x="11494" y="0"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="5895" y="0"/>
+</item>
+<item historyLabel="WProgram.h" index="2">
+<position info="not_deleted" x="11318" y="16"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="11567" y="0"/>
+</item>
+<item historyLabel="timesNewRoman.h" index="6">
+<position info="not_deleted" x="310192" y="12"/>
+</item>
+<item historyLabel="WProgram.h" index="2">
+<position info="not_deleted" x="11318" y="16"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="11567" y="0"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position/>
+</item>
+<item historyLabel="stm32l1xx_pwr.h" index="7">
+<position info="not_deleted" x="4820" y="11"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position/>
+</item>
+<item historyLabel="stm32l1xx_pwr.c" index="4">
+<position info="not_deleted" x="31498" y="11"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position/>
+</item>
+<item historyLabel="stm32l1xx_rtc.h" index="8">
+<position info="not_deleted" x="34486" y="14"/>
+</item>
+<item historyLabel="RTC.h" index="0">
+<position info="not_deleted" x="3812" y="0"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position/>
+</item>
+<item historyLabel="stm32l1xx_rtc.c" index="3">
+<position info="not_deleted" x="93138" y="14"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="8324" y="0"/>
+</item>
+<item historyLabel="WProgram.h" index="2">
+<position info="not_deleted" x="10406" y="0"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position/>
+</item>
+<item historyLabel="stm32l1xx_pwr.c" index="4">
+<position info="not_deleted" x="33548" y="13"/>
+</item>
+<item historyLabel="RTC.h" index="0">
+<position info="not_deleted" x="3812" y="0"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position/>
+</item>
+<item historyLabel="startup_stm32l1xx_md.c" index="9">
+<position info="not_deleted" x="1619" y="15"/>
+</item>
+<item historyLabel="startup_stm32l1xx_md.c" index="9">
+<position info="not_deleted" x="3541" y="20"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="1690" y="0"/>
+</item>
+<item historyLabel="stm32l1xx_rtc.c" index="3">
+<position info="not_deleted" x="93138" y="14"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="1690" y="0"/>
+</item>
+<item historyLabel="WProgram.h" index="10">
+<position info="not_deleted" x="10406" y="0"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position/>
+</item>
+<item historyLabel="WProgram.h" index="10">
+<position info="not_deleted" x="10406" y="0"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="11766" y="0"/>
+</item>
+<item historyLabel="WProgram.h" index="10">
+<position info="not_deleted" x="11447" y="0"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="11764" y="0"/>
+</item>
+<item historyLabel="WProgram.h" index="10">
+<position info="not_deleted" x="11640" y="17"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="9644" y="0"/>
+</item>
+<item historyLabel="WProgram.h" index="10">
+<position info="not_deleted" x="11640" y="17"/>
+</item>
+<item historyLabel="oled.c" index="11">
+<position info="not_deleted" x="16956" y="19"/>
+</item>
+<item historyLabel="oled.c" index="11">
+<position info="not_deleted" x="23074" y="20"/>
+</item>
+<item historyLabel="oled.c" index="11">
+<position info="not_deleted" x="23538" y="0"/>
+</item>
+<item historyLabel="oled.c" index="11">
+<position info="not_deleted" x="16956" y="19"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="9644" y="0"/>
+</item>
+<item historyLabel="WProgram.h" index="10">
+<position info="not_deleted" x="11492" y="0"/>
+</item>
+<item historyLabel="oled.c" index="11">
+<position info="not_deleted" x="16956" y="19"/>
+</item>
+<item historyLabel="WProgram.h" index="10">
+<position info="not_deleted" x="11490" y="0"/>
+</item>
+<item historyLabel="main.c" index="12">
+<position info="not_deleted" x="11336" y="0"/>
+</item>
+<item historyLabel="WProgram.h" index="10">
+<position info="not_deleted" x="343" y="0"/>
+</item>
+<item historyLabel="main.c" index="12">
+<position info="not_deleted" x="11337" y="0"/>
+</item>
+<item active="true" historyLabel="WProgram.h" index="10">
+<position info="not_deleted" x="2406" y="11"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_gpio.c" tooltip="Watch v0.1/cmsis_lib/Source/stm32l1xx_gpio.c">
+<persistable path="/Watch v0.1/cmsis_lib/Source/stm32l1xx_gpio.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="TACT.h" tooltip="Watch v0.1/TACT.h">
+<persistable path="/Watch v0.1/TACT.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="timesNewRoman.h" tooltip="Watch v0.1/Ssd1306/Font/timesNewRoman.h">
+<persistable path="/Watch v0.1/Ssd1306/Font/timesNewRoman.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_rtc.h" tooltip="Watch v0.1/cmsis_lib/Include/stm32l1xx_rtc.h">
+<persistable path="/Watch v0.1/cmsis_lib/Include/stm32l1xx_rtc.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="WProgram.h" tooltip="Watch v0.1/WProgram.h">
+<persistable path="/Watch v0.1/WProgram.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="WProgram.c" tooltip="Watch v0.1/WProgram.c">
+<persistable path="/Watch v0.1/WProgram.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="oled.c" tooltip="Watch v0.1/Ssd1306/oled.c">
+<persistable path="/Watch v0.1/Ssd1306/oled.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32l1xx_gpio.h" tooltip="Watch v0.1/cmsis_lib/Include/stm32l1xx_gpio.h">
+<persistable path="/Watch v0.1/cmsis_lib/Include/stm32l1xx_gpio.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Menu.h" tooltip="Watch v0.1/Menu.h">
+<persistable path="/Watch v0.1/Menu.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="icon.h" tooltip="Watch v0.1/Ssd1306/icon.h">
+<persistable path="/Watch v0.1/Ssd1306/icon.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="Watch v0.1/main.c">
+<persistable path="/Watch v0.1/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="misc.c" tooltip="Watch v0.1/cmsis_lib/Source/misc.c">
+<persistable path="/Watch v0.1/cmsis_lib/Source/misc.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="WotchFont.h" tooltip="Watch v0.1/Ssd1306/Font/WotchFont.h">
+<persistable path="/Watch v0.1/Ssd1306/Font/WotchFont.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="WatchFont.h" tooltip="Watch v0.1/Ssd1306/Font/WatchFont.h">
+<persistable path="/Watch v0.1/Ssd1306/Font/WatchFont.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="startup_stm32l1xx_md.c" tooltip="Watch v0.1/cmsis_boot/Startup/startup_stm32l1xx_md.c">
+<persistable path="/Watch v0.1/cmsis_boot/Startup/startup_stm32l1xx_md.c"/>
+</file>
+</mruList>
+</workbench>

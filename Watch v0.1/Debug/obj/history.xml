@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32L151CB -DSTM32L1XX_MD -ID:\progekt\STM32\Watch_SSD1306\Watch\Watch v0.1\cmsis_lib\Include -ID:\progekt\STM32\Watch_SSD1306\Watch\Watch v0.1\cmsis -ID:\progekt\STM32\Watch_SSD1306\Watch\Watch v0.1\cmsis_boot -ID:\progekt\STM32\Watch_SSD1306 -ID:\progekt\STM32\Watch_SSD1306\Watch\Watch v0.1\cmsis_lib -ID:\progekt\STM32\Watch_SSD1306\Watch\Watch v0.1\SSD1306 -ID:\progekt\STM32\Watch_SSD1306\Watch\Watch v0.1\SSD1306\Font -ID:\progekt\STM32\Watch_SSD1306\Watch -ID:\progekt\STM32\Watch_SSD1306\Watch\Watch v0.1">
+      <target file="syscalls.o" lastModified="148268992a7">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="147834aceef"/>
+      </target>
+      <target file="stm32l1xx_rcc.o" lastModified="14826898f9b">
+         <source file="..\..\..\cmsis_lib\Source\stm32l1xx_rcc.c" lastModified="147834ade71"/>
+      </target>
+      <target file="oled.o" lastModified="14826898e92">
+         <source file="..\..\..\SSD1306\oled.c" lastModified="147bfde3241"/>
+      </target>
+      <target file="stm32l1xx_gpio.o" lastModified="14826898a5e">
+         <source file="..\..\..\cmsis_lib\Source\stm32l1xx_gpio.c" lastModified="147834ade71"/>
+      </target>
+      <target file="stm32l1xx_pwr.o" lastModified="14826898ef0">
+         <source file="..\..\..\cmsis_lib\Source\stm32l1xx_pwr.c" lastModified="1478352b188"/>
+      </target>
+      <target file="stm32l1xx_tim.o" lastModified="148268993c0">
+         <source file="..\..\..\cmsis_lib\Source\stm32l1xx_tim.c" lastModified="1478352a166"/>
+      </target>
+      <target file="system_stm32l1xx.o" lastModified="14826898fca">
+         <source file="..\..\..\cmsis_boot\system_stm32l1xx.c" lastModified="147834ade71"/>
+      </target>
+      <target file="stm32l1xx_syscfg.o" lastModified="14826899269">
+         <source file="..\..\..\cmsis_lib\Source\stm32l1xx_syscfg.c" lastModified="147834ade85"/>
+      </target>
+      <target file="stm32l1xx_rtc.o" lastModified="14826899343">
+         <source file="..\..\..\cmsis_lib\Source\stm32l1xx_rtc.c" lastModified="1478352a9ae"/>
+      </target>
+      <target file="main.o" lastModified="1482689922a">
+         <source file="..\..\..\main.c" lastModified="147f04ea28a"/>
+      </target>
+      <target file="startup_stm32l1xx_md.o" lastModified="14826898f1e">
+         <source file="..\..\..\cmsis_boot\Startup\startup_stm32l1xx_md.c" lastModified="147834ade71"/>
+      </target>
+      <target file="stm32l1xx_exti.o" lastModified="14826898f4d">
+         <source file="..\..\..\cmsis_lib\Source\stm32l1xx_exti.c" lastModified="1478353a05c"/>
+      </target>
+      <target file="misc.o" lastModified="148268992d6">
+         <source file="..\..\..\cmsis_lib\Source\misc.c" lastModified="147834ade7b"/>
+      </target>
+   </processor>
+</history>
